@@ -1,4 +1,6 @@
 RENCANA KONTEN ITR
+
 - Membuat Video Tutorial Sederhana
+ * Tutorial membuat apk mobile sederhana
 - Membuat Video Game Horror
 - Vlogs
